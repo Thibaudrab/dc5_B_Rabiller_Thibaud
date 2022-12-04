@@ -1,4 +1,4 @@
-function afficherSigne() {
+function afficherpopup() {
    
     var n = prompt("Entrez un entier :");
     if (n < 0) {
